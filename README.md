@@ -1,0 +1,2 @@
+# Lintumuistio
+Lintumuistion ensimmäinen versio
